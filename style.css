@@ -1,0 +1,45 @@
+.mj{
+    background-color: red;
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+.c30{
+    background-color: yellow;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+.lebron{
+    background-color: black;
+    color: darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;    
+    text-align: center;
+}
+
+.Harden{
+    background-color: red;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    text-align: center;
+
+}
+
+.Harden img{
+    width: 650px;
+}
+
+.lebron img{
+    width: 500px;
+}
+
+.mj img{
+    width: 750px;
+}
+
