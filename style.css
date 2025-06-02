@@ -33,13 +33,53 @@
 
 .Harden img{
     width: 650px;
+    border-color: antiquewhite;
 }
 
 .lebron img{
     width: 500px;
+    border-color: darkred;
 }
 
 .mj img{
     width: 750px;
+    border-color: white;
 }
 
+.mj23{
+    background-color: white;
+}
+
+.m{
+background-color: red;
+}
+.j{
+    background-color: antiquewhite;
+}
+
+img{
+    border-width: 6px;
+    border-radius: 20px;
+    border-style: solid;
+}
+.curry{
+background-color: gold;
+}
+.c{
+    background-color: white;
+}
+.s{
+    background-color: goldenrod
+}
+.james{
+    background-color: white;
+}
+.lbj{
+    background-color: darkred;
+}
+.h{
+    background-color: black;
+}
+.jh13{
+    background-color: darkred;
+}
